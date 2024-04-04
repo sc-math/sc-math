@@ -38,12 +38,16 @@ Aqui no meu GitHub, você vai encontrar uma mistura de projetos. Desde os trabal
 
 <p align="center">
 <a href="https://github.com/jeniblodev">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=sc-math&repo=site&theme=catppuccin_mocha"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-math&theme=catppuccin_mocha&layout=compact&langs_count=8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sc-math&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
+***
+
+<p align="center">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=sc-math&repo=site&theme=catppuccin_mocha"/>
+</p>
 <!--
 **sc-math/sc-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
