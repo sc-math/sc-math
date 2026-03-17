@@ -47,6 +47,8 @@ Sou meio quietão e caseiro, então meu rolê favorito é maratonar séries de s
 <p align="center">
 <a href="https://github.com/jeniblodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-math&theme=catppuccin_mocha&layout=compact&langs_count=8"/>
+  <!--  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sc-math&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  -->
 </a>
 </p>
