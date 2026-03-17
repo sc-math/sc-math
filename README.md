@@ -1,28 +1,45 @@
-#  Math
+# 👋 E aí, Dev!
+Sou **Matheus Silva (Math)**, estudante de **Ciência da Computação na UFES**. Gosto de desenvolver soluções práticas e estou sempre evoluindo na programação.
 
-## E aí, Dev!
-Sou Math, também conhecido como Matheus Silva, atualmente estudo na UFES, fazendo o curso de Ciência da Computação e me aventurando no mundo da programação e da computação.
+---
 
-### Minhas Habilidades no Mundo da Programação
-- Manjo de umas coisas nas linguagens C/C++, Java, Dart, e tô começando a desbravar o JavaScript. Ah, e também domino um pouquinho de Python, SQL, HTML/CSS.
-- Tô sempre mexendo com os frameworks Flutter e Spring Boot. Gosto de fazer back-ends e apps mobile, mas também curto me aventurar em projetos Full-Stack.
-- Na questão acadêmica, adoro Grafos e Programação Paralela. Esses assuntos são realmente incríveis!
+## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title = "C++"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title = "Java"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title = "Spring Boot"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"  title = "Dart"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"   title = "Flutter"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="SQL"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
 </p>
 
-### O que você encontrará no meu GitHub:
-Aqui no meu GitHub, você vai encontrar uma mistura de projetos. Desde os trabalhos sérios da faculdade ou projetos que poderiam ir ao mercado até umas paradas mais aleatórias que eu gosto de fazer nos tempos livres.
+<p align="center">
+C/C++ • Java • Python • Dart • Spring Boot • Flutter • PostgreSQL • MongoDB
+</p>
 
-### Sobre Mim
-Sou meio quietão e caseiro, então meu rolê favorito é maratonar séries de suspense, que me deixam aflitos, reality shows assisto de tudo. Quando o assunto é anime, curto bastante os de ação e também os de romance. Nos jogos, sou apaixonado por diversos gêneros, seja aventura, ação, corrida, fps..., tô sempre disposto a embarcar em novas aventuras virtuais. Se você curte dessas mesmas coisas, é só chamar que a gente troca umas ideias!
+---
 
+## 📂 Sobre meus projetos
+
+Aqui você vai encontrar:
+- Projetos acadêmicos
+- Aplicações práticas (back-end e mobile)
+- Experimentos e ideias pessoais
+
+---
+
+## 🎮 Sobre mim
+
+Curto:
+- Séries (principalmente suspense)
+- Animes (ação e romance)
+- Games (FPS, corrida, aventura, etc.)
+
+Se quiser trocar ideia, só chamar!
 
 
 <div align="center">
@@ -45,7 +62,7 @@ Sou meio quietão e caseiro, então meu rolê favorito é maratonar séries de s
 ---
 
 <p align="center">
-<a href="https://github.com/jeniblodev">
+<a href="https://github.com/sc-math">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-math&theme=catppuccin_mocha&layout=compact&langs_count=8"/>
   <!--  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sc-math&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
